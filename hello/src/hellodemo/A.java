@@ -9,7 +9,7 @@ public class A {
 		System.out.println();//new line  
 		}  
 		}  */
-		  
+		  System.out.println("Git update trial ");
 		    //Using no condition in for loop  
 		    for(;;){  
 		        System.out.println("infinitive loop");  
